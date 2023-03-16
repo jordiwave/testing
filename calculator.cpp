@@ -15,4 +15,9 @@ public:
     {
         return left * right;
     }
+
+    int divide (int left, int right)
+    {
+        return left / right;
+    }
 }
