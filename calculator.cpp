@@ -5,4 +5,7 @@ public:
     {
         return left + right;
     }
+
+    int substrat(int left, int right) { return left - right; }
+
 }
