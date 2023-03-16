@@ -20,4 +20,9 @@ public:
     {
         return left / right;
     }
+
+    int pow(int left, int right)
+    {
+        return left ^ right;
+    }
 }
