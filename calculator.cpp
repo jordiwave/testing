@@ -5,4 +5,9 @@ public:
     {
         return left + right;
     }
+
+    int substract (int left, int right)
+    {
+        return left - right;
+    }
 }
