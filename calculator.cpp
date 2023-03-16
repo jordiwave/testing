@@ -10,4 +10,9 @@ public:
     {
         return left - right;
     }
+
+    int multiply (int left, int right)
+    {
+        return left * right;
+    }
 }
